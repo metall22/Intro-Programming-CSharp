@@ -8,7 +8,7 @@
         static void Main(string[] args)
 
         {
-            //I'll apreciate it if somebody tells me where my mistake is 
+             
             
           Console.Write("Enter your birth date: Month/Day/Year:");
           DateTime Birthday=DateTime.Parse(Console.ReadLine());
