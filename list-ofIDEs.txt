@@ -1,0 +1,21 @@
+1)  Eclipse is an integrated development environment (IDE). It contains a base workspace and an extensible plug-in system for customizing the environment. 
+Written mostly in Java, Eclipse can be used to develop applications. By means of various plug-ins, Eclipse may also be used to develop applications in other programming languages.
+The initial codebase originated from IBM VisualAge.[2] The Eclipse software development kit (SDK), which includes the Java development tools, is meant for Java developers.
+
+2)  KDevelop is a free software integrated development environment (IDE) for the KDE Platform on Unix-like computer operating systems. 
+KDevelop includes no compiler; instead, it uses an external compiler such as GCC or Clang to produce executable binaries.
+The current version, 4.7.1, was officially released on 6 February 2015, and will be the last version to use Qt 4 and KDElibs 4, as the next major release will rely on Qt 5 and KDE Frameworks 5.It builds on various KDE Platform 4 technologies and supports C, C++, PHP and Python development, among others.
+
+3) Code::Blocks is a free, open source cross-platform IDE which supports multiple compilers including GCC, Clang and Visual C++. It is developed in C++ using wxWidgets as the GUI toolkit.
+ Using a plugin architecture, its capabilities and features are defined by the provided plugins. Currently, Code::Blocks is oriented towards C, C++, and Fortran. It has a custom build system and optional Make support.
+Code::Blocks is being developed for Windows, Linux, and Mac OS X and has been ported to FreeBSD,OpenBSDand Solaris.
+
+4)  Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft. It is used to develop computer programs for Microsoft Windows, as well as web sites, web applications and web services. 
+Visual Studio uses Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, Windows Store and Microsoft Silverlight. It can produce both native code and managed code.
+Visual Studio includes a code editor supporting IntelliSense (the code completion component) as well as code refactoring. The integrated debugger works both as a source-level debugger and a machine-level debugger.
+
+5) Dev-C++ is a free full-featured integrated development environment (IDE) distributed under the GNU General Public License for programming in C and C++. It is written in Delphi.
+It is bundled with, and uses, the MinGW or TDM-GCC 64bit port of the GCC as its compiler. Dev-C++ can also be used in combination with Cygwin or any other GCC-based compiler.
+The project is hosted by SourceForge.Dev-C++ is generally considered a Windows-only program, but there are attempts to create a Linux version: header files and path delimiters are switchable between platforms.
+
+

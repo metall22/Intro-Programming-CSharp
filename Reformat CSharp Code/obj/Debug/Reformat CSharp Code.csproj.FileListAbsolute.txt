@@ -1,0 +1,5 @@
+c:\users\martin\documents\visual studio 2013\Projects\Intro-Programming-Homework\Reformat CSharp Code\bin\Debug\Reformat CSharp Code.exe.config
+c:\users\martin\documents\visual studio 2013\Projects\Intro-Programming-Homework\Reformat CSharp Code\bin\Debug\Reformat CSharp Code.exe
+c:\users\martin\documents\visual studio 2013\Projects\Intro-Programming-Homework\Reformat CSharp Code\bin\Debug\Reformat CSharp Code.pdb
+c:\users\martin\documents\visual studio 2013\Projects\Intro-Programming-Homework\Reformat CSharp Code\obj\Debug\Reformat CSharp Code.exe
+c:\users\martin\documents\visual studio 2013\Projects\Intro-Programming-Homework\Reformat CSharp Code\obj\Debug\Reformat CSharp Code.pdb
